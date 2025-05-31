@@ -109,3 +109,5 @@ The notebook includes a basic Telegram bot setup using `pyTelegramBotAPI`. The b
 - Add more robust error handling.
 - Implement additional commands for user interaction.
 - Deploy the bot on a server for continuous operation (e.g., using Heroku or a VPS).
+
+##For tutorial video click https://www.linkedin.com/posts/kandregula-prem-kumar-059642238_nlp-deeplearning-machinelearning-activity-7220418549268242432-bEmC?utm_source=share&utm_medium=member_desktop&rcm=ACoAADsu2cUBj_2awdINrbYALkhoaUcjqmPZDFs
