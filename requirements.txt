@@ -1,0 +1,7 @@
+```
+transformers==4.28.0
+datasets
+pandas
+pyTelegramBotAPI
+openai==0.28
+```
